@@ -2,7 +2,7 @@
   "name": "nuxt-clippy",
   "version": "1.1.0",
   "description": "The Nuxt Clippy module",
-  "repository": "toktokdev/nuxt-clippy",
+  "repository": "toktok-dev/nuxt-clippy",
   "license": "MIT",
   "type": "module",
   "exports": {
